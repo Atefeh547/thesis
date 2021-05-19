@@ -1,3 +1,2 @@
 # thesis
-my phd first thesis
-print"hello"
+My phd first thesis
